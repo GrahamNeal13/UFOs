@@ -4,10 +4,10 @@ Module 11: Using Javascript
 ## Overview of Project:
 ### Helping Dana to improve her website.  
 
-- Background
+- Background: 
 "Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape."
 
-In order to help Dana improve her webpage and the user interface additional search fields were added.  Using E6+, HTML, Bootstrap, and JavaScript as the primary coding language I was able to create a smoother user experience.  Now a user can search for date, city, state, country, or shape to help view the data submitted.  
+In order to help Dana improve her webpage and the user experience additional search fields were added.  Using E6+, HTML, Bootstrap, and JavaScript as the primary coding language.  Now a user can search by date, city, state, country, or shape to help view the data submitted.  
 
 ![module_site_png](https://github.com/GrahamNeal13/UFOs/blob/main/read_me_img/module_site.png)
 
