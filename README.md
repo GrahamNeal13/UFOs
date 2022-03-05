@@ -26,7 +26,7 @@ The site will also log the searches in the console of the webpage so that Dana c
 ## Summary:
 ### What can be learned.
 
-Unfortunately this is not a perfect webpage, the main drawback issue is that the search fields are case sensitive.  If a user chooses to use capital letters when entering a search for "CO" it will result in an empty data table which we know to be false.  The place holders do show examples for the user to replicate but not every person using the site may relieve this tiny detail.  
+Unfortunately this is not a perfect webpage, the main drawback issue is that the search fields are case sensitive.  If a user chooses to use capital letters when entering a search for "CO" it will result in an empty data table which we know to be false.  The place holders do show examples for the user to replicate but not every person using the site may realize this tiny detail.  
 
 ![search_error.png](https://github.com/GrahamNeal13/UFOs/blob/main/read_me_img/search_error.png)
 
